@@ -1,5 +1,16 @@
-# E-commerce-App (Internship project)
-Developed the user interface for an e-commerce application using Dart and Flutter.
-The project focused on creating a seamless and intuitive shopping experience for users.
-This project enhanced my skills in UI/UX design, Dart, and Flutter, and taught me the
-importance of creating user-centric digital experiences.
+# internship_proj
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
